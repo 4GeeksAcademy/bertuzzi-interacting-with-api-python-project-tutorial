@@ -37,3 +37,8 @@ plt.title('Scatter Plot of Duration vs Popularity')
 plt.xlabel('Duration (ms)')
 plt.ylabel('Popularity')
 plt.show()
+
+"""
+Correlation result = There is a moderate relationship between duration of a song and its popularity.
+A correlation coefficient of roughly 0.58 indicates a light, moderate relationship between the variables only
+"""
